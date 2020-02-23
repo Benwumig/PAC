@@ -25,6 +25,8 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
 var rules = [
 	"@@||cqc.com.cn",
 	"||feedly.com",	/**/
+	"||idope.se",
+
 	"||javynow.com",
 	"||ii9mm.com",
 	"||sis001.com",
